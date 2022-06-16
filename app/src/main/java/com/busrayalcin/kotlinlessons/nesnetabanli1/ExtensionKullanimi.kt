@@ -11,3 +11,4 @@ infix fun Int.carpi(sayi:Int) : Int{
 }
 
 //this = self (Swift)
+//
